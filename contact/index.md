@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: <u>Contact</u>
 nav:
   order: 5
   tooltip: Email, address, and location

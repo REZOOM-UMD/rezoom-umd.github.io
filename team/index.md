@@ -1,5 +1,5 @@
 ---
-title: Team
+title: <u>Team</u>
 nav:
   order: 3
   tooltip: About our team
@@ -16,6 +16,6 @@ Here are the people that keep ReZoom moving!
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are currently seeking students skilled in Mechanical Engineering, Electrical Engineering, and Programming.
+We are currently seeking students skilled in Electrical Engineering and Business.
 
 {% include section.html %}
