@@ -1,5 +1,5 @@
 ---
-title: <u>Team</u>
+title: Team
 nav:
   order: 3
   tooltip: About our team

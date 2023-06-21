@@ -1,5 +1,5 @@
 ---
-title: <u>Publications</u>
+title: Publications
 nav:
     order: 2
 ---

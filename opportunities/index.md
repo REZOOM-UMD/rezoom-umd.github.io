@@ -1,5 +1,5 @@
 ---
-title: <u>Opportunities</u>
+title: Opportunities
 nav:
   order: 4
   tooltip: Positions we need filled

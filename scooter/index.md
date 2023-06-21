@@ -1,5 +1,5 @@
 ---
-title: <u>Scooter</u>
+title: Scooter
 nav:
   order: 0
   tooltip: Details on what we do
