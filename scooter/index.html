@@ -39,21 +39,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Self-Driving Scooter Research</title>
+<title>
+<u>Scooter</u> | Self-Driving Scooter Research</title>
 
 <link rel="icon" href="/favicon.png">
 
-<meta name="title" content="">
+<meta name="title" content="&lt;u&gt;Scooter&lt;/u&gt;">
 <meta name="description" content="&lt;i&gt;University of Maryland&lt;/i&gt;. Welcome! Our mission is to design self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you're interested in joining!">
 
-<meta property="og:title" content="">
+<meta property="og:title" content="&lt;u&gt;Scooter&lt;/u&gt;">
 <meta property="og:site_title" content="Self-Driving Scooter Research">
 <meta property="og:description" content="&lt;i&gt;University of Maryland&lt;/i&gt;. Welcome! Our mission is to design self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you're interested in joining!">
 <meta property="og:url" content="">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="">
+<meta property="twitter:title" content="&lt;u&gt;Scooter&lt;/u&gt;">
 <meta property="twitter:description" content="&lt;i&gt;University of Maryland&lt;/i&gt;. Welcome! Our mission is to design self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you're interested in joining!">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +70,9 @@
     
       "@type": "WebSite",
     
-    "name": "",
+    "name": "<u>Scooter</u>",
     "description": "<i>University of Maryland</i>. Welcome! Our mission is to design self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you're interested in joining!",
-    "headline": "",
+    "headline": "<u>Scooter</u>",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/favicon.png" }
@@ -367,7 +368,7 @@
 
 
 
-<header class="background" style="--image: url('/images/background2.jpg')" data-dark="true" data-big>
+<header class="background" style="--image: url('/images/background2.jpg')" data-dark="true">
   <a href="/" class="home">
     
       <span class="logo">
@@ -447,9 +448,10 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="a-self-driving-e-scooter">a Self-Driving E-scooter</h1>
+    <h1 id="our-e-scooter">
+<i class="icon fa-solid fa-wrench"></i>Our E-Scooter</h1>
 
-<p>The long-term goal of this research is to develop self-driving e-scooter technology to increase sustainability, accessibility, and equity in urban mobility. Toward this goal, in this work we design and implement a self-driving e-scooter with the ability to safely travel along a pre-planned route using automated, onboard control without a rider. We also construct an autonomous driving framework by synthesizing open-source robotics software libraries with custom-designed modules specific to an e-scooter, including path planning and state estimation. The hardware and software development steps along with design choices and pitfalls are documented. Results of real-world autonomous navigation of our retrofitted e-scooter, along with the effectiveness of our localization methods are presented. Please feel free to reach out to us with inquiries!</p>
+<p>We have designed an autonomous electric scooter that can sense the environment, develop a path plan, and execute it. The scooter has been shown to autonomously navigate paths up to 400 meters.</p>
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
@@ -460,6 +462,29 @@
   </a>
   
 </figure>
+
+<p>Our approach is to customize commercial off-the-shelf electric scooters with the hardware
+and sensors required to achieve micro-scale re-positioning up to several hundred meters. This project
+was originally funded as a seed grant from the Maryland Transportation Institute entitled “Research in Electric Scooter Urban Mobility (RESUME)”, which we have renamed ReZoom. Our
+ongoing efforts have led to three iterations, an example of which can be seen in the above picture.
+The ReZoom electronic stack includes a single board computer that performs all onboard
+computing and runs the Robot Operating System (ROS) on Ubuntu Linux. Additionally, we have
+a stereo camera for depth sensing, Inertial Measurement Units (IMUs) and GPS modules for
+localization, a motor driver and accompanying power circuitry for navigation.</p>
+
+<p>Creating a self-driving electric scooter poses novel challenges in autonomous vehicle research. By comparison, self-driving cars are equipped with sensors and computation capabilities
+that are too large and expensive for e-scooters. Therefore, our approach towards these challenges
+is to leverage advances in mobile robotics, while keeping in mind the physical, technical, and
+financial constraints of a shared e-scooter system including the unit cost. Our efforts focus on
+developing hardware and software specific to this system to help achieve the goal of building a
+sustainable, accessible, and equitable micromobility platform for shared rental operators.</p>
+
+<p>We seek to develop a hardware and software stack capable of achieving autonomous micro-scale re-positioning of the scooter; planning a path through roads, trails, and sidewalks; navigating while avoiding cars and pedestrians; and being sufficiently low-cost to be deployed on a large
+scale. Historical rental scooter ride data will allow the scooter to take advantage of previous rides
+performed by humans and learn the optimal paths to navigate through the urban landscape. In addition, we will develop onboard perception and state estimation algorithms to enable the scooter
+to perceive its environment and navigate relative to its goal, up to hundreds of meters away.</p>
+
+<div class="search-info"></div>
   </section>
 
   
@@ -473,79 +498,84 @@
   size: ;
 -->
 
-<h2 id="highlights">Highlights</h2>
-
-<div class="feature">
-  <a href="/scooter" class="feature-image" aria-label="Our Scooter">
-    <img src="/images/scooter_wide.jpg" loading="lazy" alt="Our Scooter" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/electronic_stack.png" style="
+        width: 50%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
-  <div class="feature-text">
+  
+</figure>
+
+<p>The electronic stack (pictured above) includes an Nvidia Jetson Orin single board computer, which performs all on-board computing, that runs the Robot Operating System (ROS) and Ubuntu 20. Additionally, we have a stereo camera (pictured below) for depth sensing, inertial measurement units (IMUs) and GPS modules for localization, a motor driver, and an accompanying power circuit for navigation. Motion planning for the scooter follows an Ackermann (car-like) drive model, implemented with the TEB Local Planner in ROS.</p>
+
+<div class="cols" style="--cols: 2">
+  
     
-      <p class="feature-title">Our Scooter</p>
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="Camera on the scooter">
+    <img src="/images/stereo_camera.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="Camera on the scooter" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Camera on the scooter
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
     
-    
-<p>Learn more about our project!</p>
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="Historical scooter data">
+    <img src="/images/historical_scooter_data.png" style="
+        width: auto;
+        max-height: unset;
+      " alt="Historical scooter data" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+    <figcaption class="figure-caption">
+      Historical scooter data
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+</div>
+
+<p>Another aspect of this work is to use historical scooter data from Veo for global path planning. This data consists of GPS locations from scooter rides taken in and around campus during 2019 and 2020, and with it, we have been able to construct a graph of scooter paths, where lower edge weights correspond to more frequently taken paths. This allows us to not only create the heatmap as shown in the picture above, but also allows for efficient path planning.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="1" data-dark="true">
+    <!--
+  background: ;
+  dark: true;
+  size: 1;
+-->
+
+<center>Please feel free to contact us with any questions!</center>
 
 <div class="button-wrapper">
-    <a class="button" href="/scooter" data-style="bare" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
+    <a class="button" href="/contact" data-tooltip="Contact Page" data-style="" aria-label="Contact Page">
+      <i class="icon fa-solid fa-user"></i>
       
-        <span>Check out how it works</span>
+        <span>Contact Us</span>
       
     </a>
   </div>
-
-
-  </div>
-</div>
-
-<div class="feature" data-flip="">
-  <a href="/publications" class="feature-image" aria-label="Our Publications">
-    <img src="/images/book_icon.jpg" loading="lazy" alt="Our Publications" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  <div class="feature-text">
-    
-      <p class="feature-title">Our Publications</p>
-    
-    
-<p>Check out our research papers!</p>
-
-<div class="button-wrapper">
-    <a class="button" href="/publications" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
-      
-        <span>See what we've published</span>
-      
-    </a>
-  </div>
-
-
-  </div>
-</div>
-
-<div class="feature">
-  <a href="/team" class="feature-image" aria-label="Our Team">
-    <img src="/images/idea_factory.jpg" loading="lazy" alt="Our Team" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  <div class="feature-text">
-    
-      <p class="feature-title">Our Team</p>
-    
-    
-<p>Look at who keeps ReZoom driving!</p>
-
-<div class="button-wrapper">
-    <a class="button" href="/team" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
-      <i class="icon fa-solid fa-arrow-right"></i>
-      
-        <span>Meet our team</span>
-      
-    </a>
-  </div>
-
-
-  </div>
-</div>
   </section>
 
 
