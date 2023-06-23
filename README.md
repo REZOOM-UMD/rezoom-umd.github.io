@@ -14,7 +14,7 @@ path planning and obstacle avoidance.
 Maintainer: Jaxon Lee, jaxondlee@gmail.com, [GidntSquia](https://github.com/Gidntsquia)
 Contact me if you have any questions!
 
-Visit **[rezoom.umd.edu](http://rezoom.umd.edu)** 🚀
+Visit **[rezoom-umd.github.io](https://rezoom-umd.github.io)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
