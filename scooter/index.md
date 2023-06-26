@@ -71,6 +71,11 @@ The electronic stack (pictured above) includes an Nvidia Jetson Orin single boar
 Another aspect of this work is to use historical scooter data from Veo for global path planning. This data consists of GPS locations from scooter rides taken in and around campus during 2019 and 2020, and with it, we have been able to construct a graph of scooter paths, where lower edge weights correspond to more frequently taken paths. This allows us to not only create the heatmap as shown in the picture above, but also allows for efficient path planning.
 
 
+Check out our scooter in action:
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Z1cvNpJkJLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 {% include section.html dark=true %}
 
 <center>Please feel free to contact us with any questions!</center>
