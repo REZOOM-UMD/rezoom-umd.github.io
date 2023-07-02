@@ -13,8 +13,7 @@
   image: images/scooter_with_sensors_highlighted.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:none1
-  title: Graph-based Global Path Planning for an Autonomous Electric Scooter using
+- title: Graph-based Global Path Planning for an Autonomous Electric Scooter using
     Historical Ride Data
   authors:
   - Vibhu Agrawal
@@ -27,8 +26,7 @@
   image: images/historical_scooter_data.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:none2
-  title: Analysis and Optimization of Servicing Logistics for Self-Driving E-scooters
+- title: Analysis and Optimization of Servicing Logistics for Self-Driving E-scooters
   authors:
   - Hao Da Dong
   - Derek A. Paley

@@ -4,8 +4,7 @@
   date: 2023-6-23
   image: images/scooter_with_sensors_highlighted.jpg
 
-- id: doi:none1
-  title: Graph-based Global Path Planning for an Autonomous Electric Scooter using Historical Ride Data
+- title: Graph-based Global Path Planning for an Autonomous Electric Scooter using Historical Ride Data
   authors:
     - Vibhu Agrawal
     - Srijal Shekhar Poojari
@@ -16,8 +15,7 @@
   type: unpublished
   image: images/historical_scooter_data.png
 
-- id: doi:none2
-  title: Analysis and Optimization of Servicing Logistics for Self-Driving E-scooters
+- title: Analysis and Optimization of Servicing Logistics for Self-Driving E-scooters
   authors:
     - Hao Da Dong
     - Derek A. Paley
