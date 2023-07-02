@@ -3,7 +3,6 @@ name: Nicholas 'Nicky' Sremac-Saari
 image: images/nicky.jpeg
 role: undergrad
 description: Mechanical Engineering
-group: current
 links:
   email: nsremacs@terpmail.umd.edu
 ---

@@ -9,8 +9,17 @@ nav:
 Here is what we've published so far.
 
 {% include section.html %}
-Outdoor Localization and Path Planning for Repositioning a Self-Driving Electric Scooter by Srijal Shekhar Poojari, 2023
 
-Graph-based Global Path Planning for an Autonomous Electric Scooter using Historical Ride Data by Vibhu Agrawal, Srijal Shekhar Poojari, Derek A Paley, 2023
+## Highlighted
 
-Analysis and Optimization of Servicing Logistics for Self-Driving E-scooters by Hao Da Dong, 2021
+{% include citation.html lookup="Outdoor Localization and Path Planning for Repositioning a Self-Driving Electric Scooter" style="rich" %}
+
+{% include section.html %}
+
+## All
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" %}

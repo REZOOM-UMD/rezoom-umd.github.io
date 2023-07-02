@@ -10,7 +10,7 @@ Here is what we've published so far.
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Outdoor Localization and Path Planning for Repositioning a Self-Driving Electric Scooter" style="rich" %}
 
 {% include section.html %}
 

@@ -1,23 +1,30 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.13016/dspace/tbvg-9is5
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  description: Srijal's Thesis, which discusses work on ReZoom from 2021-2023.
+  date: 2023-6-23
+  image: images/scooter_with_sensors_highlighted.jpg
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:none1
+  title: Graph-based Global Path Planning for an Autonomous Electric Scooter using Historical Ride Data
+  authors:
+    - Vibhu Agrawal
+    - Srijal Shekhar Poojari
+    - Derek A. Paley
+  date: 2023-3-01
+  link: pdfs/Graph-based-Global-Path-Planning-for-an-Autonomous-Electric-Scooter-using-Historical-Ride-Data.pdf
+  publisher: Unpublished
+  type: unpublished
+  image: images/historical_scooter_data.png
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:none2
+  title: Analysis and Optimization of Servicing Logistics for Self-Driving E-scooters
+  authors:
+    - Hao Da Dong
+    - Derek A. Paley
+  date: 2021-4-14
+  link: pdfs/analysis_and_optimization_for_e-scooters.pdf
+  publisher: Unpublished
+  type: unpublished
+  image: images/overview_of_old_approach.jpg
+
+  

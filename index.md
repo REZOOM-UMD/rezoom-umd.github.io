@@ -1,5 +1,5 @@
 ---
-title: ReZoom
+title: ReZoom. Robotics and Autonomy Lab at the University of Maryland.
 ---
 # a Self-Driving E-scooter
 

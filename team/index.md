@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Here are the people that keep ReZoom moving!
+Here are the people that keep ReZoom driving!
 
 {% include section.html %}
 

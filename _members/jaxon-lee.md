@@ -3,7 +3,6 @@ name: Jaxon Lee
 image: images/jaxon/jaxon2021.jpeg
 role: undergrad
 description: Computer Science
-group: current
 links:
   email: jaxondlee@gmail.com
   github: GidntSquia
