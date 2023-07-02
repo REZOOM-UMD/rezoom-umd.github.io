@@ -1,5 +1,6 @@
 ---
 title: Scooter
+description: Technical research details. Read what our project is about.
 nav:
   order: 0
   tooltip: Details on what we do

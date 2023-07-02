@@ -1,6 +1,6 @@
 ---
+title: ReZoom
 ---
-
 # a Self-Driving E-scooter
 
 The long-term goal of this research is to develop self-driving e-scooter technology to increase sustainability, accessibility, and equity in urban mobility. Toward this goal, in this work we design and implement a self-driving e-scooter with the ability to safely travel along a pre-planned route using automated, onboard control without a rider. We also construct an autonomous driving framework by synthesizing open-source robotics software libraries with custom-designed modules specific to an e-scooter, including path planning and state estimation. The hardware and software development steps along with design choices and pitfalls are documented. Results of real-world autonomous navigation of our retrofitted e-scooter, along with the effectiveness of our localization methods are presented. Please feel free to reach out to us with inquiries!
@@ -14,8 +14,6 @@ The long-term goal of this research is to develop self-driving e-scooter technol
 ## Highlights
 
 {% capture text %}
-
-Learn more about our project!
 
 {%
   include button.html
@@ -39,8 +37,6 @@ Learn more about our project!
 
 {% capture text %}
 
-Check out our research papers!
-
 {%
   include button.html
   link="publications"
@@ -63,8 +59,6 @@ Check out our research papers!
 
 
 {% capture text %}
-
-Look at who keeps ReZoom driving!
 
 {%
   include button.html

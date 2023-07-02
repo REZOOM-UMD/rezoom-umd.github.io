@@ -1,5 +1,6 @@
 ---
 title: Team
+description: The team members current researching on the ReZoom team. Check out our openings at the bottom of this section or on the opportunities page!
 nav:
   order: 3
   tooltip: About our team
