@@ -11,10 +11,10 @@
     for (const heading of headings) {
       // create anchor link
       const link = document.createElement("a");
-      link.classList.add("icon", "fa-solid", "fa-link", "anchor");
-      link.href = "#" + heading.id;
-      link.setAttribute("aria-label", "link to this section");
-      heading.append(link);
+      // link.classList.add("icon", "fa-solid", "fa-link", "anchor");
+      // link.href = "#" + heading.id;
+      // link.setAttribute("aria-label", "link to this section");
+      // heading.append(link);
 
       // if first heading in the section, move id to parent section
       if (heading.matches("section > :first-child")) {
