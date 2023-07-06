@@ -4,11 +4,13 @@ the Robotics and Autonomy Lab.
 
 ## Self-Driving Scooter Research at UMD 👨‍🏫
 
-We wish to make e-scooters more convenient to access and less annoying when left 
-behind. Our goal is to design an inexpensive addition for e-scooters that allows
-them to park themselves after a rider is done so that they do not get in the way.
-Our scooter is fitted with a camera and a computer, which allows it to use AI for
-path planning and obstacle avoidance.
+Our goal is to make e-scooters more convenient to access and less annoying when 
+left behind. We set out to design an inexpensive addition for e-scooters that
+allows them to park themselves after a rider is done so that they do not get 
+in the way. To that end, we have designed an autonomous electric scooter that 
+can sense the  environment, develop a path plan, and execute it. The scooter has
+been shown to autonomously navigate paths up to 400 meters, and we have
+plans to extend that range. 
 
 
 Maintainer: Jaxon Lee, jaxondlee@gmail.com, [GidntSquia](https://github.com/Gidntsquia)

@@ -6,12 +6,41 @@ nav:
   tooltip: Details on what we do
   
 ---
-
-# {% include icon.html icon="fa-solid fa-wrench" %}Our E-Scooter
-
-We have designed an autonomous electric scooter that can sense the environment, develop a path plan, and execute it. The scooter has been shown to autonomously navigate paths up to 400 meters. 
+# {% include icon.html icon="fa-solid fa-book" %} Our Research
+Our goal is to make e-scooters more convenient to access and less annoying when 
+left behind. We set out to design an inexpensive addition for e-scooters that
+allows them to park themselves after a rider is done so that they do not get 
+in the way. To that end, we have designed an autonomous electric scooter that 
+can sense the  environment, develop a path plan, and execute it. The scooter has
+been shown to autonomously navigate paths up to 400 meters, and we have
+plans to extend that range. 
 
 {% include figure.html image="images/scooter_in_motion.png" width="50%" %}
+
+# {% include icon.html icon="fa-solid fa-users" %} Meet the Scooters
+{% include figure.html image="images/all_3_scooters.jpg" width="75%" %}
+From left to right, we have Ben Parker, Richard Parker, and Peter Parker!
+
+__Ben__ is the oldest. It was our first foray into self-navigating scooters. 
+Please excuse it's small size—it was meant to be a proof of concept, not a fully-fledged vehicle for riding!
+
+__Richard__ has received the most development. After Richard, we knew we were 
+serious about this project.
+Richard can navigate, avoid obstacles, and park itself completely autonomously 
+(without a remote control!). However, Richard can't be controlled by human riders.
+It is due to this reason that, with great sadness, we put Richard to rest and began working
+on the newest iteration.
+
+__Peter__ is the youngest. We are still bringing Peter up to speed with Richard. 
+Our goal is for Peter to be ridable by humans while retaining it's ability to 
+move autonomously like Richard. Peter is rough around the edges right now, but,
+with time, Peter will grow up to be just like Richard!
+
+__All__ are Parker's. All "park" themselves. Their name follows from their function!
+
+
+
+# {% include icon.html icon="fa-solid fa-wrench" %} How We Did It
 
 Our approach is to customize commercial off-the-shelf electric scooters with the hardware
 and sensors required to achieve micro-scale re-positioning up to several hundred meters. This project
