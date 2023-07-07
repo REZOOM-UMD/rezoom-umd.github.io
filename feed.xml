@@ -1,1 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-07-07T15:15:48+00:00</updated><id>/feed.xml</id><title type="html">Self-Driving Scooter Research</title><subtitle>Welcome! Our mission is to design self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you&apos;re interested in joining!</subtitle><entry><title type="html">Example post 3</title><link href="/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2023-07-07T15:15:01+00:00</updated><id>/2023/02/23/example-post-3</id><content type="html" xml:base="/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 2</title><link href="/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2023-07-07T15:15:01+00:00</updated><id>/2021/09/30/example-post-2</id><content type="html" xml:base="/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 1</title><link href="/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2023-07-07T15:15:01+00:00</updated><id>/2019/01/07/example-post-1</id><content type="html" xml:base="/2019/01/07/example-post-1.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>sarah-johnson</name></author><category term="biology" /><category term="medicine" /><category term="big data" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-07-07T15:54:51+00:00</updated><id>/feed.xml</id><title type="html">Self-Driving Scooter Research</title><subtitle>Welcome! Our mission is to design self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you&apos;re interested in joining!</subtitle><entry><title type="html">Finished the Website</title><link href="/2023/07/07/Finished-the-website.html" rel="alternate" type="text/html" title="Finished the Website" /><published>2023-07-07T00:00:00+00:00</published><updated>2023-07-07T15:53:49+00:00</updated><id>/2023/07/07/Finished-the-website</id><content type="html" xml:base="/2023/07/07/Finished-the-website.html"><![CDATA[<!-- excerpt start -->
+<p>As can be seen, I finished website v1.0! 
+<!-- excerpt end -->
+We have a home (landing) page, a research
+summary page, a publications page, a team page, a contact page, an updates page, a sleek
+website look, and an official link in “rezoom.umd.edu.” I feel pretty good with
+where the website is now, and I don’t expect to work much more on it since the
+website was not a task explicitly given to me nor does the website give particularly
+significant benefit to the ReZoom team. But, we shall see!</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/Blog%20Summer%202023/rezoom_website_v1.0.jpg" style="
+        width: 75%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>
+
+<p>Please let me know any feedback you might have. See you around!</p>]]></content><author><name>jaxon-lee</name></author><category term="website," /><category term="summer" /><summary type="html"><![CDATA[As can be seen, I finished website v1.0! We have a home (landing) page, a research summary page, a publications page, a team page, a contact page, an updates page, a sleek website look, and an official link in “rezoom.umd.edu.” I feel pretty good with where the website is now, and I don’t expect to work much more on it since the website was not a task explicitly given to me nor does the website give particularly significant benefit to the ReZoom team. But, we shall see!]]></summary></entry><entry><title type="html">Some CAD Mounts Made</title><link href="/2023/07/05/Some-CADs-Finished.html" rel="alternate" type="text/html" title="Some CAD Mounts Made" /><published>2023-07-05T00:00:00+00:00</published><updated>2023-07-07T15:53:49+00:00</updated><id>/2023/07/05/Some-CADs-Finished</id><content type="html" xml:base="/2023/07/05/Some-CADs-Finished.html"><![CDATA[<p>Created two new mounts for the GPS and the Motor Controller. I have the files saved on my computer currently so the next step will have to be emailing Dr. Penskiy about using the 3D printers in the Idea Factory since I currently have not been trained on how to use them. There are other mounts I will need to print however so I may wait until they’re all done before continuing with Dr. Penskiy.</p>
+
+<div class="cols" style="--cols: 2">
+  
+    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="GPS Holder">
+    <img src="/images/Blog%20Summer%202023/GPS_Holder.PNG" style="
+        width: auto;
+        max-height: unset;
+      " alt="GPS Holder" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      GPS Holder
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="Motor Controller Holder">
+    <img src="/images/Blog%20Summer%202023/Motor_Controller_Holder.PNG" style="
+        width: auto;
+        max-height: unset;
+      " alt="Motor Controller Holder" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Motor Controller Holder
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+</div>
+
+<p>Created two more mounts for the components inside of the board. I also adjusted some of the old hole sizes with calipers. There’s one left that I have to work on but after that I should be able to start printing these parts and test if they work right or if they need to be adjusted again.</p>
+
+<div class="cols" style="--cols: 2">
+  
+    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="ADC Connector Holder">
+    <img src="/images/Blog%20Summer%202023/ADC_Connector_Holder.PNG" style="
+        width: auto;
+        max-height: unset;
+      " alt="ADC Connector Holder" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      ADC Connector Holder
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="ADC Holder">
+    <img src="/images/Blog%20Summer%202023/ADC_Holder.PNG" style="
+        width: auto;
+        max-height: unset;
+      " alt="ADC Holder" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      ADC Holder
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+</div>
+
+<p>I’ve printed the first part for the electronics for the inside of the scooter. It fit really well with the GPS so once I get the rest of the parts printed it should be very simple to start attaching them.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/Blog%20Summer%202023/GPS_Holder_printed.jpg" style="
+        width: 75%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>]]></content><author><name>nicholas-sremac-saari</name></author><category term="scooter," /><category term="peter-parker," /><category term="summer" /><summary type="html"><![CDATA[Created two new mounts for the GPS and the Motor Controller. I have the files saved on my computer currently so the next step will have to be emailing Dr. Penskiy about using the 3D printers in the Idea Factory since I currently have not been trained on how to use them. There are other mounts I will need to print however so I may wait until they’re all done before continuing with Dr. Penskiy.]]></summary></entry><entry><title type="html">First Update!</title><link href="/2023/06/15/First-Update!.html" rel="alternate" type="text/html" title="First Update!" /><published>2023-06-15T00:00:00+00:00</published><updated>2023-07-07T15:53:49+00:00</updated><id>/2023/06/15/First-Update!</id><content type="html" xml:base="/2023/06/15/First-Update!.html"><![CDATA[<p>Welcome to the website! On the blog page, we will post updates on things we’ve done,
+so you can follow along with our progress. Please feel free to check out the other
+blog posts, and I hope you have a <em>driving</em> day!</p>]]></content><author><name>jaxon-lee</name></author><category term="website," /><category term="summer" /><summary type="html"><![CDATA[Welcome to the website! On the blog page, we will post updates on things we’ve done, so you can follow along with our progress. Please feel free to check out the other blog posts, and I hope you have a driving day!]]></summary></entry></feed>
