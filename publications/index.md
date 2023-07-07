@@ -4,7 +4,7 @@ nav:
     order: 2
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 Here is what we've published so far.
 
