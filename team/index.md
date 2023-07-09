@@ -17,6 +17,6 @@ Here are the people that keep ReZoom driving!
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are currently seeking students skilled in Electrical Engineering and Business.
+We are currently seeking students skilled in Electrical Engineering and Business. Please check the Opportunities page for details.
 
 {% include section.html %}

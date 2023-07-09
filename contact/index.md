@@ -2,7 +2,7 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: How to reach us!
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
@@ -29,7 +29,7 @@ Please feel free to reach out to us with inquiries about joining the team!
 {%
   include figure.html
   image="images/derek_paley.jpg"
-  caption="Dr. Derek Paley"
+  caption="Dr. Derek Paley, Principal Investigator"
 %}
 
 {% endcapture %}
@@ -39,7 +39,7 @@ Please feel free to reach out to us with inquiries about joining the team!
 {%
   include figure.html
   image="images/idea_factory.jpg"
-  caption="Our Lab"
+  caption="We are situated at the E.A. Fernandez IDEA Factory Building"
 %}
 
 {% endcapture %}
