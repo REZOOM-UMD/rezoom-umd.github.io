@@ -30,6 +30,7 @@ Please feel free to reach out to us with inquiries about joining the team!
   include figure.html
   image="images/derek_paley.jpg"
   caption="Dr. Derek Paley, Principal Investigator"
+  height = "250px"
 %}
 
 {% endcapture %}
@@ -40,6 +41,7 @@ Please feel free to reach out to us with inquiries about joining the team!
   include figure.html
   image="images/idea_factory.jpg"
   caption="We are situated at the E.A. Fernandez IDEA Factory Building"
+  height = "250px"
 %}
 
 {% endcapture %}
