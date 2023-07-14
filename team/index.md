@@ -15,7 +15,7 @@ Here are the people that keep ReZoom driving!
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 We are currently seeking students skilled in Electrical Engineering and Business. Please check the Opportunities page for details.
 
