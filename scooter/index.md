@@ -102,8 +102,9 @@ Another aspect of this work is to use historical scooter data from Veo for globa
 
 
 Check out our scooter in action:
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Z1cvNpJkJLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/videoseries?list=PLEhNI36DhkD_JkXSu9XVa--v94nfLigpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- 
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Z1cvNpJkJLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 
 {% include section.html dark=true %}
