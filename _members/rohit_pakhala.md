@@ -1,6 +1,6 @@
 ---
 name: Rohit Reddy Pakhala
-image: images/rohit_pakhala.jpg
+image: images/jaxon/jaxon2021.jpeg
 role: grad
 description: Robotics
 links:
