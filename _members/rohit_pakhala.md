@@ -4,9 +4,9 @@ image: images/rohit_pakhala.jpg
 role: grad
 description: Robotics
 links:
+  email: rpakhala@umd.edu
   github: RohitReddy16
   google-scholar: YY0gISgAAAAJ
-
 ---
 
 Hello 👋, I'm Rohit Reddy Pakhala. I'm a Master's student in Robotics Engineering at the University of Maryland, College Park. I have been a part of ReZoom since May 2023. I'm currently working on localization and motion planning.
